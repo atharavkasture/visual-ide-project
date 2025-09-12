@@ -19,7 +19,7 @@ Make sure you have these installed first:
 
 **1. Clone the Project**
 ```
-git clone [<repository-link>](https://github.com/atharavkasture/visual-ide-project.git)
+git clone https://github.com/atharavkasture/visual-ide-project.git
 cd visual-ide-project
 ```
 
@@ -42,6 +42,7 @@ The app will open at http://localhost:5173.
 **4. Open in Browser**
 
 Go to http://localhost:5173 to use the app.
+
 
 
 
