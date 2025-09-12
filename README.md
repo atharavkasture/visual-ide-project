@@ -39,8 +39,9 @@ npm run dev
 ```
 The app will open at http://localhost:5173.
 
-4. Open in Browser
+**4. Open in Browser**
 
 Go to http://localhost:5173 to use the app.
+
 
 
