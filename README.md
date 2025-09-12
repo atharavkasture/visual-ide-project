@@ -38,7 +38,9 @@ npm install  # (Only need to run this the first time)
 npm run dev
 ```
 The app will open at http://localhost:5173.
+
 4. Open in Browser
 
 Go to http://localhost:5173 to use the app.
+
 
