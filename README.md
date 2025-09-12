@@ -20,7 +20,7 @@ Make sure you have these installed first:
 **1. Clone the Project**
 ```
 git clone <repository-link>
-cd visual-coder-ide
+cd visual-ide-project
 ```
 
 **2. Start the Backend (Terminal 1)**
@@ -41,3 +41,4 @@ The app will open at http://localhost:5173.
 4. Open in Browser
 
 Go to http://localhost:5173 to use the app.
+
